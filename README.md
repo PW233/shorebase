@@ -1,31 +1,71 @@
 # Product Name
-> ShoreBase
-
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+> ShoreBase  
+> Version 0.1
 
 The shore-based software is based on qt and javascript and is mainly used for monitoring and controlling underwater robots. For detailed functions, please refer to the development documentation.
 
 ![](header.png)
 
+## File tree list
+.  
+├── configuredlg.cpp  
+├── configuredlg.h  
+├── customplotdlg.cpp  
+├── customplotdlg.h  
+├── debugdlg.cpp  
+├── debugdlg.h  
+├── emergencyparadlg.cpp  
+├── emergencyparadlg.h  
+├── emergencyshow.cpp  
+├── emergencyshow.h  
+├── main.cpp  
+├── mainwindow.cpp  
+├── mainwindow.h  
+├── mainwindow.ui  
+├── mapdialog.cpp  
+├── mapdialog.h  
+├── MBUtils.cpp  
+├── MBUtils.h  
+├── missionparadlg.cpp  
+├── missionparadlg.h  
+├── pathplanningdlg.cpp  
+├── pathplanningdlg.h  
+├── qcustomplot.cpp  
+├── qcustomplot.h  
+├── shoreBase.pro  
+├── startandviewdlg.cpp  
+├── startandviewdlg.h  
+└── google Map  
+    └── GoogleMapAPIv3_offlinePack        
+&#160; &#160; &#160; &#160;├── images     
+&#160; &#160; &#160; &#160;├── img    
+&#160; &#160; &#160; &#160;├── index.html    
+&#160; &#160; &#160; &#160;├── mapfiles    
+&#160; &#160; &#160; &#160;└── maptile    
+
 ## Installation
 
-Linux:
+Linux:  
 
+Download the corresponding source code under Linux  
+Download offline Google Map  
+Place the offline Google Maps folder in the correct location  
+Download QT Creator and require QT version more than 5.10  
+Compile with gcc  
 
+Windows:  
 
-Windows:
-
-Download the corresponding source code under windows
-Download offline google map
-Place the offline Google Maps folder in the correct location
+Download the corresponding source code under windows  
+Download offline Google Map    
+Place the offline Google Maps folder in the correct location    
+Download QT Creator and require QT version more than 5.10    
+Compile with MSVC  
 
 ## Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
+
+_For more examples and usage, please refer to the 
 
 ## Development setup
 
@@ -66,11 +106,3 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
