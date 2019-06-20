@@ -1,4 +1,3 @@
-﻿#pragma execution_character_set("utf-8")
 #include "missionparadlg.h"
 #include <QTableWidgetItem>
 #include <QHeaderView>
@@ -353,8 +352,7 @@ MissionParaDlg::~MissionParaDlg()
 }
 
 void MissionParaDlg::getPoisFromMap( std::string sval )
-{
-    /*
+{    
     for( int i = 0; i < tableWidget -> rowCount(); i++ )
     {
         for( int j = 1; j < 4; j ++ )
@@ -377,7 +375,6 @@ void MissionParaDlg::getPoisFromMap( std::string sval )
         tableWidget -> setItem( i, 1, new QTableWidgetItem( points_lon[i].c_str() ) );
         tableWidget -> setItem( i, 2, new QTableWidgetItem( points_lat[i].c_str() ) );
     }
-    */
 }
 
 
