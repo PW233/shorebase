@@ -47,21 +47,21 @@ The shore-based software is based on qt and javascript and is mainly used for mo
 Linux:  
 
 ```sh
-Download the corresponding source code under Linux  
-Download offline Google Map  
-Place the offline Google Maps folder in the correct location  
-Download QT Creator and require QT version more than 5.10  
-Compile with gcc  
+1.Download the corresponding source code under Linux  
+2.Download offline Google Map  
+3.Place the offline Google Maps folder in the correct location  
+4.Download QT Creator and require QT version more than 5.10  
+5.Compile with gcc  
 ```
 
 Windows:  
 
 ```sh
-Download the corresponding source code under windows  
-Download offline Google Map    
-Place the offline Google Maps folder in the correct location    
-Download QT Creator and require QT version more than 5.10    
-Compile with MSVC 
+1.Download the corresponding source code under windows  
+2.Download offline Google Map    
+3.Place the offline Google Maps folder in the correct location    
+4.Download QT Creator and require QT version more than 5.10    
+5.Compile with MSVC 
 ```
 
 ## Usage example
@@ -79,11 +79,3 @@ Chen Ming – [@github](https://github.com/Minc333) – minc33@163.com
 
 Distributed under the BSD license. See ``LICENSE`` for more information.
 
-
-## Contributing
-
-1. Fork it (<https://github.com/Minc333/shorebase/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
