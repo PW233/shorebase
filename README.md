@@ -2,9 +2,8 @@
 > ShoreBase  
 > Version 0.1
 
-The shore-based software is based on qt and javascript and is mainly used for monitoring and controlling underwater robots. For detailed functions, please refer to the development documentation.
+The shore-based software is based on qt and javascript and is mainly used for monitoring and controlling underwater robots. The software has not been released yet. For detailed functions, please refer to the Instruction.
 
-![](header.png)
 
 ## File tree list
 .  
@@ -47,61 +46,43 @@ The shore-based software is based on qt and javascript and is mainly used for mo
 
 Linux:  
 
+```sh
 Download the corresponding source code under Linux  
 Download offline Google Map  
 Place the offline Google Maps folder in the correct location  
 Download QT Creator and require QT version more than 5.10  
 Compile with gcc  
+```
 
 Windows:  
 
+```sh
 Download the corresponding source code under windows  
 Download offline Google Map    
 Place the offline Google Maps folder in the correct location    
 Download QT Creator and require QT version more than 5.10    
-Compile with MSVC  
+Compile with MSVC 
+```
 
 ## Usage example
 
+The result of the operation is as follows：  
 
+![](https://github.com/Minc333/shorebase/blob/master/images/MainWindow.png)
 
-_For more examples and usage, please refer to the 
+For more examples and usage, please refer to the Instruction.  
 
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
-
-## Release History
-
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Chen Ming – [@github](https://github.com/Minc333) – minc33@163.com
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Distributed under the BSD license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
 
 ## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/Minc333/shorebase/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
