@@ -2,7 +2,7 @@
 > ShoreBase  
 > Version 0.1
 
-The shore-based software is based on qt and javascript and is mainly used for monitoring and controlling underwater robots. The software has not been released yet. For detailed functions, please refer to the Instruction.
+The shore-based software is based on qt and javascript and is mainly used for monitoring and controlling underwater robots. The software has not been released yet. For detailed functions, please refer to the ![How_to_use](https://github.com/Minc333/shorebase/blob/master/How_to_use.pdf)
 
 
 ## File tree list
@@ -70,7 +70,7 @@ The result of the operation is as follows：
 
 ![](https://github.com/Minc333/shorebase/blob/master/images/MainWindow.png)
 
-For more examples and usage, please refer to the Instruction.  
+For more examples and usage, please refer to the ![How_to_use](https://github.com/Minc333/shorebase/blob/master/How_to_use.pdf).  
 
 
 ## Meta
