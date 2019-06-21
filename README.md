@@ -40,7 +40,8 @@ The shore-based software is based on qt and javascript and is mainly used for mo
 &#160; &#160; &#160; &#160;├── img    
 &#160; &#160; &#160; &#160;├── index.html    
 &#160; &#160; &#160; &#160;├── mapfiles    
-&#160; &#160; &#160; &#160;└── maptile    
+&#160; &#160; &#160; &#160;└── maptile   
+If you want to see the details of these specific files, please refer to [How_to_develop]().
 
 ## Installation
 
@@ -73,9 +74,7 @@ The result of the operation is as follows：
 For more examples and usage, please refer to the [How_to_use](https://github.com/Minc333/shorebase/blob/master/How_to_use.pdf).  
 
 
-## Meta
-
-Chen Ming – [@github](https://github.com/Minc333) – minc33@163.com
+## LICENSE
 
 Distributed under the BSD license. See [``LICENSE``](https://github.com/Minc333/shorebase/blob/master/LICENSE) for more information.
 
