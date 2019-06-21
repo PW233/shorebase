@@ -78,3 +78,7 @@ For more examples and usage, please refer to the [How_to_use](https://github.com
 
 Distributed under the BSD license. See [``LICENSE``](https://github.com/Minc333/shorebase/blob/master/LICENSE) for more information.
 
+## ABOUT US
+
+[Underwater Vehicle Lab Intelligent Perception & Machine Learning Lab]（http://www.ouc-uvl.org/).
+
