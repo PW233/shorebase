@@ -80,6 +80,6 @@ Distributed under the BSD license. See [``LICENSE``](https://github.com/Minc333/
 
 ## ABOUT US
 
-[Underwater Vehicle Lab Intelligent Perception & Machine Learning Lab](http://www.ouc-uvl.org/).
+[Underwater Vehicle Lab Intelligent Perception & Machine Learning Lab](http://www.ouc-uvl.org/).  
 [Chen Ming](https://github.com/Minc333) - minc33@163.com
 
