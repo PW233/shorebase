@@ -41,9 +41,9 @@ The shore-based software is based on qt and javascript and is mainly used for mo
 &#160; &#160; &#160; &#160;├── index.html    
 &#160; &#160; &#160; &#160;├── mapfiles    
 &#160; &#160; &#160; &#160;└── maptile   
-If you want to see the details of these specific files, please refer to [How_to_develop]().
+If you want to see the details of these specific files, please refer to [How_to_develop](https://github.com/Minc333/shorebase/blob/master/How_to_develop.pdf).
 
-## Installation
+## Compile
 
 Linux:  
 
